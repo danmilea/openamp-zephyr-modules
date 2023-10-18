@@ -1,0 +1,6 @@
+open-amp library Zephyr Module Support
+######################################
+
+Zephyr module support to use upstream open-amp with zephyr.
+
+open-amp URL: https://github.com/OpenAMP/open-amp
