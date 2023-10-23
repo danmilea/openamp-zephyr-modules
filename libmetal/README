@@ -1,0 +1,6 @@
+OpenAMP Libmetal Zephyr Module Support
+######################################
+
+Zephyr module support to use upstream libmetal with zephyr.
+
+libmetal URL: https://github.com/OpenAMP/libmetal
