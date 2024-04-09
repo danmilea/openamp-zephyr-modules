@@ -1,0 +1,7 @@
+config ZEPHYR_LIBMETAL_MODULE
+    bool
+    default y
+
+config ZEPHYR_OPEN_AMP_MODULE
+    bool
+    default y
